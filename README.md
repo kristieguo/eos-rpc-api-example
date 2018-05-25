@@ -19,7 +19,7 @@
 }
 ```
 
-### 1. POST /v1/chain/abi_json_to_bin 
+### 2. POST /v1/chain/abi_json_to_bin 
 
 ##### REQUEST
 ```
@@ -48,7 +48,7 @@
 }
 ```
 
-### 1. POST /v1/chain/get_block
+### 3. POST /v1/chain/get_block
 
 ##### REQUEST
 ```
@@ -82,7 +82,7 @@
 }
 ```
 
-### POST /v1/chain/get_account
+### 4. POST /v1/chain/get_account
 
 ##### REQUEST
 ```
@@ -156,7 +156,7 @@
 }
 ```
 
-### POST /v1/chain/get_currency_balance
+### 5. POST /v1/chain/get_currency_balance
 
 ##### REQUEST
 ```
@@ -174,7 +174,7 @@
 ]
 ```
 
-### POST /v1/chain/abi_bin_to_json
+### 6. POST /v1/chain/abi_bin_to_json
 
 ##### REQUEST
 ```
@@ -203,7 +203,7 @@
 }
 ```
 
-### POST /v1/chain/get_table_rows
+### 7. POST /v1/chain/get_table_rows
 
 ##### REQUEST
 ```
@@ -227,7 +227,7 @@
 }
 ```
 
-### POST /v1/history/get_actions
+### 8. POST /v1/history/get_actions
 
 ##### REQUEST
 ```
@@ -341,7 +341,7 @@
 }
 ```
 
-### POST /v1/history/get_transaction
+### 9. POST /v1/history/get_transaction
 
 ##### REQUEST
 ```
